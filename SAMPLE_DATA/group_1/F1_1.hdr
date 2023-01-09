@@ -1,0 +1,19 @@
+ENVI
+description = {
+D:\Desktop\Image_Fusion_MODIS_TM\COLEAMBALLY\FSDAF_COL_ALL\20011007_20011016\7-ENVI_files\group_1\F1_1}
+samples = 500
+lines   = 500
+bands   = 6
+header offset = 0
+file type = ENVI Standard
+data type = 12
+interleave = bsq
+byte order = 0
+map info = {Arbitrary, 1, 1, 1159.5, -299.5, 1, 1, 0, North}
+band names = {
+Band 1,
+Band 2,
+Band 3,
+Band 4,
+Band 5,
+Band 6}
